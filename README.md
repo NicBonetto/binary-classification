@@ -1,5 +1,5 @@
 # binary-classification
-ML model that classifies movie reviews as good or bad.
+ML model that classifies movie reviews as positive or negative.
 
 ### About the Project
 This repository is meant to be an introduction to Machine Learning. The IMDB dataset from Keras, which contains reviews from the Internet Movie Database, is used to train the model to classify the sentiment of a movie review as good or bad. A lot of the code used can be found in the book *Deep Learning with Python* by François Chollet. There were two main goals for this project: the first was to set up a workspace so that I can actually train and run a model (which was surprisingly difficult without a machine running on Linux), and the second to get familiar with a basic Machine Learning workflow solving a simple problem, and experimenting with changing parameters and how they affect the outcome of the training.
